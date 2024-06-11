@@ -91,9 +91,9 @@ upload:
     # 本地文件存储路径
     path: /usr/local/upload/
   oss:
-    url: "http://ykai-blog.oss-cn-shenzhen.aliyuncs.com/"
+    url: ""
     endpoint: "http://oss-cn-shenzhen.aliyuncs.com"
-    accessKeyId: LTAI5t8gkai7JNnTetzDD4pe
+    accessKeyId: 
     accessKeySecret: RUyQkRiE5QfgTX2SX9yhTIDFnRIhMR
     bucketName: ykai-blog
   cos:
